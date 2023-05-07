@@ -1,1 +1,1 @@
-# Fake-news
+Predicting fake news from dataset named data.csv
